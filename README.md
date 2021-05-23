@@ -15,4 +15,7 @@ _______________________________
 ![alt text](https://github.com/vishalsoniindia/Hack-Digital-Watch-LCD/blob/main/FAIKO68KOZRI6OJ.jpg)
 
 
+
+![alt text](https://github.com/vishalsoniindia/Hack-Digital-Watch-LCD/blob/main/FGPRKO3KOZRHZTD.jpg)
+
 _______________________________
