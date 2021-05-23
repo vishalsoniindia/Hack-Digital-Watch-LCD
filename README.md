@@ -12,7 +12,7 @@ Hackster link :- https://www.hackster.io/Vishalsoniindia/hack-wrist-watch-lcd-wi
 
 _______________________________
 
-![alt text](https://github.com/vishalsoniindia/Hack-Digital-Watch-LCD/blob/1/FAIKO68KOZRI6OJ.jpg?raw=true)
+![alt text](https://github.com/vishalsoniindia/Hack-Digital-Watch-LCD/blob/main/FAIKO68KOZRI6OJ.jpg)
 
 
 _______________________________
