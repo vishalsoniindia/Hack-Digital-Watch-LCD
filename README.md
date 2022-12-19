@@ -19,4 +19,4 @@ _______________________________
 
 _______________________________
 
-[![alt text]([https://img.youtube.com/vi/xBAoARIPTug/0.jpg](https://content.instructables.com/FAI/KO68/KOZRI6OJ/FAIKO68KOZRI6OJ.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=f245be3d5542b36900715f32f241c395))]([https://youtu.be/xBAoARIPTug](https://youtu.be/_lHsXlv9sZ8))
+[![alt text](https://content.instructables.com/FAI/KO68/KOZRI6OJ/FAIKO68KOZRI6OJ.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=f245be3d5542b36900715f32f241c395)
